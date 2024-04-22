@@ -18,3 +18,4 @@ https://play.google.com/store/apps/details?id=com.smart.stationary
 ## Link On App Store 
 https://apps.apple.com/us/app/smart-stationery/id6452393690?l=ar
 ## ERP Admin panel
+![alt text](https://github.com/hadeer-elnaghy/Smart-Stationary/blob/main/screenshots/screencapture-smartsys-smartstationery-net-home-2024-04-22-23_27_49.png)
